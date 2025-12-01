@@ -1,4 +1,4 @@
-![Genny Logo](./assets/genny-logo.png)
+<img src="./assets/genny-logo.png" alt="Genny Logo" style="width:200px;margin-bottom: 3rem;">
 
 # Welcome to Genny
 
